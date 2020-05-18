@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    你好,河马
+    <router-view></router-view>
   </div>
 </template>
 
